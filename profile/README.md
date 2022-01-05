@@ -20,7 +20,7 @@ The bots that power Transcribers of Reddit (ToR) all directly interact with Redd
 - [ToR Archivist](https://github.com/GrafeasGroup/tor_archivist) — the bot that keeps the queue clean and archives the completed posts for those who need them! Known online as [u/ToR_archivist](https://reddit.com/u/tor_archivist) and runs [The Archive](https://reddit.com/r/ToR_Archive)
 - [ToR OCR](https://github.com/GrafeasGroup/tor_ocr) — to give our volunteers a little boost, the bot attempts to pull the text from the image using [OCR (Optical Character Recognition)](https://en.wikipedia.org/wiki/Optical_character_recognition) to get people started
 
-### The Organzation Family
+### The Organization Family
 
 Like any modern organization, there's a bunch of automation going on behind the scenes that helps us do our jobs! Our three primary bots here are:
 
